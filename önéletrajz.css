@@ -1,7 +1,12 @@
 body {
-    background-image: url(images/CVbackground.jpg)
+    background-image: url("images/CV\ b2.jpg");
     background-size: 100% auto;
     background-repeat: repeat;
     background-attachment: fixed;
     opacity: 0.9;
+}
+#name {
+    text-align: center;
+font-style: italic;
+font-size: xx-large;
 }
