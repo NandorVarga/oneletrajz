@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/CV\ b2.jpg");
+    background-image: url("images/CV-TEMPLATES-FINAL-JULY-01.png");
     background-size: 100% auto;
     background-repeat: repeat;
     background-attachment: fixed;
@@ -9,4 +9,28 @@ body {
     text-align: center;
 font-style: italic;
 font-size: xx-large;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+#personal_information {
+    text-align: left;
+font-family: 'Courier New', Courier, monospace;
+font-size: large;
+}
+.tartalom {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: beige;
+
+}
+#szül {
+color: skyblue;
+}
+#elkepzelesek {
+    color: orangered;
+}
+.Sz1 {
+   color: whitesmoke;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
